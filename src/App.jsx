@@ -5,7 +5,6 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import Services from "./pages/Services";
 import Contact from "./pages/Contact";
-import Product from "./pages/Product";
 export default function App() {
   return (
     <BrowserRouter>
